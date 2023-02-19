@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="underline">#D1C6C6</color>
+    <color name="playlist_background">#30B58A</color>
+    <color name="selected_item_colour">#836A6E6D</color>
+
+
+
+
+    <color name="primary">#0C1B3E</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_deep1">#31091227</color>
+    <color name="transparent_deep2">#77091227</color>
+    <color name="transparent_deep3">#AD091227</color>
+    <color name="transparent_deep4">#E4091227</color>
+    <color name="primaryVariant">#121212</color>
+    <color name="blueCustom">#091227</color>
+    <color name="quiz_red">#DF146E</color>
+    <color name="grey">#808080</color>
+    <color name="grey_light">#FFB0B0B0</color>
+    <color name="blue_custom">#287EC3</color>
+    <color name="blue_custom1">#A5C0FFB2</color>
+    <color name="pink_custom">#D08BE0</color>
+    <color name="green_custom">#A5C0FFB2</color>
+    <color name="white_custom">#EAF0FF</color>
+    <color name="dark_blue_custom">#0E1D3F</color>
+    <color name="dark_yellow">#BF7912</color>
+    <color name="ratingBg">#1A2637</color>
+    <color name="colorAccent">#0000ff</color>
+    <color name="red">#DF1102</color>
+    <color name="grey_dark">#FF747474</color>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="green">#4CAF50</color>
+    <color name="greendeep">#0A6E0E</color>
+    <color name="takacolor">#FFFB00</color>
+    <color name="progressColor">#7B2CBF</color>
+    <color name="shimmerBg">#2C3C60</color>
+    <color name="purchasedColor">#18FFFF</color>
+    <color name="rategreen">#69F0AE</color>
+    <color name="kabbik_color_1">#CE117F</color>
+    <color name="kabbik_color_2">#502272</color>
+    <color name="kabbik_color_3">#E78E23</color>
+    <color name="profile_subscriptionbox">#0055287B</color>
+
+
+
+</resources>
+
+<!--    #39D5A3-->
