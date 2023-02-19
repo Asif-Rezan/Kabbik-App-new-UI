@@ -15,7 +15,6 @@ class MainActivity : AppCompatActivity() {
     private lateinit var audioRecyclerView: RecyclerView
    // private lateinit var AudioList: ArrayList<AudioBookData>
     private lateinit var audioListAdapter: AudioListAdapter
-
     private lateinit var readMorebutton: TextView
     private lateinit var descriptionTextView: TextView
     private lateinit var selectedAudioThumbnail: ImageView
